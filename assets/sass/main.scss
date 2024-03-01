@@ -1,0 +1,33 @@
+// layout
+html {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	margin-top: 0rem;
+	margin-left: auto;
+	margin-right: auto;
+	width: 45rem;
+}
+
+body {
+	font-family: "FiraCode Nerd Font", monospace;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	line-height:1.5;
+	font-size: 16px;
+	color: #0d0d0d;
+	background: #ffffff;
+	display: flex;
+	justify-content: center;
+	position: relative;
+}
+
+// set text decorations
+blockquote {
+	font-style: italic;
+	padding-left: 1rem;
+}
